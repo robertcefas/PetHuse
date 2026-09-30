@@ -2,7 +2,7 @@ package com.example.PetHuse.controller;
 
 
 import com.example.PetHuse.entity.ClientesEntity;
-import com.example.PetHuse.reposity.ClienteRepository;
+import com.example.PetHuse.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

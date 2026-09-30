@@ -1,4 +1,4 @@
-package com.example.PetHuse.reposity;
+package com.example.PetHuse.repository;
 
 import com.example.PetHuse.entity.FuncionarioEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
